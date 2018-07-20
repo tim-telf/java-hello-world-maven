@@ -1,5 +1,11 @@
 to run it:
-java -cp target/myapp-1.0.jar com.myorganization.app.Main
+```console
+$ java -cp target/myapp-1.0.jar com.myorganization.app.Main
+
+
+Hello, world!
+```
+
 
 # Dead simple, boiler plate getting started Java app with maven
 Skeleton Java project with a vanilla maven file with minimal options to get you started.
